@@ -1,0 +1,2 @@
+from .whisperTranscriptionService import WhisperTranscriptionService
+from .whisperInterfaceToService import WhisperLocal, WhisperApi
